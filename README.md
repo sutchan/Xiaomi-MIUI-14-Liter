@@ -1,0 +1,1 @@
+# MIUI-lite-for-Letv-X600
