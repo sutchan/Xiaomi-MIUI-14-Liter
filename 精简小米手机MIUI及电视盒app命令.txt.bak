@@ -23,7 +23,6 @@ adb shell pm uninstall --user 0 com.xiaomi.ab	#小米商城系统组件
 
 //如果重启后自动装上，则可用禁用模式。
 adb shell pm disable-user --user 0  com.miui.analytics
-
 adb shell pm disable-user --user 0  com.miui.systemAdSolution
 
 //输入法

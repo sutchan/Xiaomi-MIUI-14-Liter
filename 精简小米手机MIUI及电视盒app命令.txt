@@ -71,8 +71,8 @@ adb shell pm uninstall --user 0 com.miui.miwallpaper.snowmountain # 雪山超级壁纸
 //adb shell pm uninstall --user 0 com.miui.smsextra #短信额外应用
 //adb shell pm uninstall --user 0 com.xiaomi.drivemode ##驾驶模式
 //adb shell pm uninstall --user 0 com.xiaomi.mircs  #网络短信
-adb shell pm uninstall --user 0 com.miui.securityadd	#系统服务组件
-adb shell pm uninstall --user 0 com.miui.miservice	#小米服务
+//adb shell pm uninstall --user 0 com.miui.securityadd	#系统服务组件
+//adb shell pm uninstall --user 0 com.miui.miservice	#小米服务
 
 adb shell pm uninstall --user 0 com.duokan.reader	#多看阅读
 adb shell pm uninstall --user 0 com.duokan.videodaily
